@@ -1,6 +1,5 @@
 ## Hi there!😃 I'm Prabhakaran
 
-<!--
 💼 Work Experience
 Data Analyst
 📍 Latent View Analytics Ltd., Chennai, India
@@ -10,4 +9,4 @@ Data Analyst
 📈 Conducted A/B testing, resulting in optimized revenue and deeper audience insights.
 🛠️ Developed SQL pipelines for ETL tasks and automated regular reports to streamline processes.
 🏆 Encore Award Winner (Q2 2024) for exceptional performance!
--->
+
