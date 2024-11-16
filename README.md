@@ -20,8 +20,8 @@ Tools: Power BI 📊, Tableau 📈, Adobe Analytics, MS Excel 📑, NVIDIA Solut
 
 Skills/Knowledge: AI, LLMs, NVIDIA Generative AI, Apache Spark, Delta Lake, Lakehouse, Delta Live Tables, Data Pipelines, ETL
 
-🥇 NVIDIA Certified Associate - Generative AI LLMs | October 2024 
+🥇 NVIDIA Certified Associate - Generative AI LLMs 
 
-🏅 Databricks Certified Data Engineer Associate | August 2024
+🏅 Databricks Certified Data Engineer Associate 
 
 To know more 📫: https://prabha-07.github.io/
