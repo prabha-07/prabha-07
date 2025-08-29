@@ -16,7 +16,7 @@ Environments: Databricks, Hive, JupyterLab, GitHub
 
 Tools: Power BI 📊, Tableau 📈, Adobe Analytics, MS Excel 📑
 
-Skills/Knowledge: AI, LLMs, NVIDIA Generative AI, Apache Spark, Delta Lake, Lakehouse, Delta Live Tables, Data Pipelines, ETL
+Knowledge: AI, LLMs, NVIDIA Generative AI, Apache Spark, Delta Lake, Lakehouse, Delta Live Tables, Data Pipelines, ETL
 
 🥇 NVIDIA Certified Associate - Generative AI LLMs 
 
