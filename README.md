@@ -8,7 +8,7 @@
 
 💼 Worked as an Analyst at 📍 Latent View Analytics Ltd., Chennai, India.
 
-🛠️ Technical Skills
+🛠️ Technical Skills:
 
 Languages: Python 🐍, SQL 🗄️
 
